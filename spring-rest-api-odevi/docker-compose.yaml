@@ -1,0 +1,7 @@
+services:
+  springboot-api:
+    image: springboot-api 
+    build:
+      context: C:\Users\ACER\Music\Desktop\Yigit\Calismalar\spring-rest-api-odevi\Dockerfile 
+    ports:
+      - "8080:4444"
