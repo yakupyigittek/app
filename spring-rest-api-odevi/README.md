@@ -48,7 +48,7 @@ EXPOSE 8080
 CMD ["java", "-jar", "app.jar"]
 ```
 
-### Docker Compose
+### docker-compose.yaml
 ```yaml
 services:
   springboot-api:
