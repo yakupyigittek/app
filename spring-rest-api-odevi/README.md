@@ -61,7 +61,7 @@ services:
       - ./spring-rest-api-odevi:/app
 ```
 
-## Konteyner Durumunu Kontrol Etme
+## Container Durumunu Kontrol Etme
 
 ```bash
 docker ps
