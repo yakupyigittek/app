@@ -34,7 +34,6 @@ docker-compose up -d
 ## API Endpoint'leri
 
 ### Toplama İşlemi
-- **Endpoint:** `/add`
 - **Method:** GET
 - **Port:** 8080 (Docker üzerinde)
 
