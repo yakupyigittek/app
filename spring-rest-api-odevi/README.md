@@ -71,5 +71,5 @@ docker ps
 
 - Uygulama varsayılan olarak 4444 portunda çalışır
 - Docker Compose ile 8080 portuna yönlendirilmiştir
-- Volume mapping ile GitHub reposundaki kodlar container ile senkronize edilmiştir
+- Volume mapping ile GitHub reposundaki kodlar clone yardımıyla container ile senkronize edilmiştir
 - API testleri Postman aracılığıyla gerçekleştirilmiştir
