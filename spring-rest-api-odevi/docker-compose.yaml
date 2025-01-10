@@ -5,3 +5,5 @@ services:
       context: C:\Users\ACER\Music\Desktop\Yigit\Calismalar\spring-rest-api-odevi\Dockerfile 
     ports:
       - "8080:4444"
+    volumes:
+      - ./src:/app/src
